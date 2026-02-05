@@ -32,6 +32,9 @@ network reconnaissance, traffic analysis, and firewall baseline assessment.
 - Reconnaissance visibility and baseline assessment
 - Understanding of LAN/WAN/DMZ segmentation
 - Interpreting TCP handshake activity from packet traces
+  
+## Evidence (Selected Screenshots)
+See the `screenshots/` folder for supporting captures.
 
 ## Notes
 Educational use only. All testing performed in an isolated academic lab environment.
